@@ -7,7 +7,7 @@
 Para el desarrollo de este proyecto se realizo el siguiente proceso, primero realice todos los trabajos pertinentes a la base de datos en base al Modelo entidad 
 Relacion propuesto por alura para la base de datos:
 
-<img src="./Example3.PNG" alt="Base de Datos" />
+<img src="DB_MER.png" alt="Base de Datos" />
 
 Para eliminar los registros de la tabla huespedes y reservas en una sola consulta se creo un procedimiento almacendado:
 
